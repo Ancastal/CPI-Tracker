@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CPI-Tracking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPI_Tracking_jar</output-path>
+    <root id="archive" name="CPI-Tracking.jar">
+      <element id="module-output" name="CPI-Tracking" />
+    </root>
+  </artifact>
+</component>
